@@ -14,7 +14,7 @@ Follow the steps below to get started:
 2. Open Google Colab in your web browser: Google Colab.
 3. Click on "File" > "Open Notebook" and choose "GitHub" tab.
 4. Enter the URL of this repository (or the path to the downloaded code) and click on the search icon.
-5. Select the notebook file MNIST_Handwritten_Digit_Classification.ipynb from the search results.
+5. Select the notebook file ExamFinal.ipynb from the search results.
 
 # Running the Code
 Once you have opened the notebook in Google Colab, follow the instructions provided in the notebook to run the code step-by-step.
@@ -30,5 +30,5 @@ The notebook guides you through the following steps:
 5. Evaluating the model's performance on the test set.
 6. Visualizing the model architecture and generating additional visualizations (e.g., confusion matrix).
 7. Generating a report with the results and insights.
-8. 
+   
 Feel free to modify the code or experiment with different hyperparameters to further improve the model's performance.
